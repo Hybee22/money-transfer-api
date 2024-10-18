@@ -68,3 +68,11 @@ npm test
 ```
 
 This will execute all test files in the project using Jest.
+
+## API Documentation
+
+For detailed API documentation and testing, you can use our Postman collection:
+
+[View API Documentation in Postman](https://documenter.getpostman.com/view/7036082/2sAXxWZpG4)
+
+This collection provides a comprehensive set of API endpoints and examples to help you interact with our service.
